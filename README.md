@@ -3,7 +3,7 @@
 Atualmente, sou um estudante do curso Desenvolvimento de Sistemas do SENAI, com o objetivo de me tornar um Dev Full-Stack.
 <br>
 <br>
-👑 - Quero ser um Dev **incrível** para ter uma carreira **íncrivel.**
+👑 - Quero ser um Dev incrível para ter uma carreira íncrivel.
 <br>
 <br>
 🔭 - Estou sempre buscando aprender mais e mais!
@@ -47,4 +47,3 @@ Minhas redes sociais:
 </a>
 </p>
 </div>
-![Snake animation](https://github.com/IgorVernequeDev/IgorVernequeDev/blob/output/github-contribution-grid-snake.svg)
