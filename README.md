@@ -12,7 +12,7 @@ Atualmente, sou um estudante do curso Desenvolvimento de Sistemas do SENAI, com 
 💬 - Você pode me mandar uma mensagem se quiser, ficarei contente em te responder.
 <br>
 <br>
-🧔 - Minha inspiração é o Gustavo Guanabara, você pode dar uma olhada no perfil dele aqui --> (https://github.com/gustavoguanabara)
+🧔 - Minha inspiração é o Gustavo Guanabara, você pode dar uma olhada no perfil dele aqui em baixo: (https://github.com/gustavoguanabara)
 <br>
 <br>
 🌻 - Eu adoro girassol, é a minha flor preferida.
