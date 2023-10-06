@@ -1,7 +1,7 @@
 ### Igor Verneque falando aqui! ;)
   <br>
 <p>
-  <img src="https://media.tenor.com/ZRZlxbc-XqwAAAAM/sunflower-happy-dance.gif" width="900">
+  <img src="https://media.tenor.com/ZRZlxbc-XqwAAAAM/sunflower-happy-dance.gif" width="100">
 </p>
 <br>
 Atualmente, sou um estudante do curso Desenvolvimento de Sistemas do SENAI, com o objetivo de me tornar um Dev Full-Stack.
