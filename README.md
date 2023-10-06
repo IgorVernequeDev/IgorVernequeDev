@@ -4,14 +4,19 @@ Atualmente, sou um estudante do curso Desenvolvimento de Sistemas do SENAI, com 
 <br>
 <br>
 👑 - Quero ser um Dev **incrível** para ter uma carreira **íncrivel.**
-
+<br>
+<br>
 🔭 - Estou sempre buscando aprender mais e mais!
-
+<br>
+<br>
 💬 - Você pode me mandar uma mensagem se quiser, ficarei contente em te responder.
-
+<br>
+<br>
 🧔 - Minha inspiração é o Gustavo Guanabara, você pode dar uma olhada no perfil dele aqui --> (https://github.com/gustavoguanabara)
-
+<br>
+<br>
 🌻 - Eu adoro girassol, é a minha flor preferida.
+<br>
 <br>
 <p>
   <img src="https://media.tenor.com/ZRZlxbc-XqwAAAAM/sunflower-happy-dance.gif" width="100">
