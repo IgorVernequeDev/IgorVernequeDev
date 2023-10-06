@@ -1,8 +1,4 @@
 ### Igor Verneque falando aqui! ;)
-  <br>
-<p>
-  <img src="https://media.tenor.com/ZRZlxbc-XqwAAAAM/sunflower-happy-dance.gif" width="100">
-</p>
 <br>
 Atualmente, sou um estudante do curso Desenvolvimento de Sistemas do SENAI, com o objetivo de me tornar um Dev Full-Stack.
 <br>
@@ -17,7 +13,9 @@ Atualmente, sou um estudante do curso Desenvolvimento de Sistemas do SENAI, com 
 
 🌻 - Eu adoro girassol, é a minha flor preferida.
 <br>
-<br>
+<p>
+  <img src="https://media.tenor.com/ZRZlxbc-XqwAAAAM/sunflower-happy-dance.gif" width="100">
+</p>
 Atualmente, meu foco está distríbuido entre:
 <div style="display inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -37,8 +35,10 @@ Minhas redes sociais:
 <br>
 <br>
 <p align="center">
+<div style="display inline">
 <a href="https://github.com/IgorVernequeDev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgorVernequeDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgorVernequeDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+</div>
