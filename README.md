@@ -9,18 +9,6 @@ Atualmente, sou um estudante do curso Desenvolvimento de Sistemas do SENAI, com 
 🔭 - Estou sempre buscando aprender mais e mais!
 <br>
 <br>
-💬 - Você pode me mandar uma mensagem se quiser, ficarei contente em te responder.
-<br>
-<br>
-🧔 - Minha inspiração é o Gustavo Guanabara, você pode dar uma olhada no perfil dele aqui em baixo: (https://github.com/gustavoguanabara)
-<br>
-<br>
-🌻 - Eu adoro girassol, é a minha flor preferida.
-<br>
-<br>
-<p>
-  <img src="https://media.tenor.com/ZRZlxbc-XqwAAAAM/sunflower-happy-dance.gif" width="100">
-</p>
 Atualmente, meu foco está distríbuido entre:
 <div style="display inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
