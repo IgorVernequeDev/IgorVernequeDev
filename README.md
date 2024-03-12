@@ -21,7 +21,7 @@ Minhas redes sociais:
 <div style="display inline">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="https://www.linkedin.com/in/igor-de-almeida-verneque-a11693272/"><img src=
+<a href="https://www.linkedin.com/in/igor-verneque-a11693272/"><img src=
 "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </div>
