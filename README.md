@@ -1,6 +1,6 @@
 ### Igor Verneque falando aqui! ;)
 <br>
-Atualmente, sou um estudante do curso Desenvolvimento de Sistemas do SENAI, com o objetivo de me tornar um Dev Full-Stack. 📌
+Atualmente, sou técnico em Desenvolvimento de Sistemas pelo SENAI, com o objetivo de me tornar um Dev Full-Stack. 📌
 <br>
 <br>
 👑 - Quero ser um Dev incrível para ter uma carreira íncrivel.
