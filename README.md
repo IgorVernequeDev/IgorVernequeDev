@@ -1,35 +1,21 @@
-### Igor Verneque falando aqui! ;)
-<br>
-Atualmente, sou técnico em Desenvolvimento de Sistemas pelo SENAI, com o objetivo de me tornar um Dev Full-Stack. 📌
-<br>
-<br>
-👑 - Quero ser um Dev incrível para ter uma carreira íncrivel.
-<br>
-<br>
-🔭 - Estou sempre buscando aprender mais e mais!
-<br>
-<br>
-Atualmente, meu foco está distríbuido entre:
-<div style="display inline">
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width='55' height='55' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />        
-<img width='55' height='55' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+# Igor Verneque falando aqui! ;)
+
+Sou técnico em Desenvolvimento de Sistemas pelo SENAI e busco a minha melhor versão como programador back-end.
+
+## Linguagens
+
+![TypeScript](https://img.shields.io/badge/TypeScript-language-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-API-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-mobile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<div align="center">
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgorVernequeDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgorVernequeDev&layout=compact&langs_count=8&theme=algolia"/>
 </div>
-<br>
-Minhas redes sociais:
-<div style="display inline">
-<a href="https://wa.me/15996545927"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="mailto:igorverneque5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/igor-verneque-a11693272/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-<br>
-<br>
-<p align="center">
-<div style="display inline">
-<a href="https://github.com/IgorVernequeDev">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgorVernequeDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgorVernequeDev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-</div>
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/igor-verneque/
+- 📧 Email: igorverneque5@gmail.com
