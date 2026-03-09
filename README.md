@@ -7,7 +7,6 @@ Sou técnico em Desenvolvimento de Sistemas pelo SENAI e busco a minha melhor ve
 ![TypeScript](https://img.shields.io/badge/TypeScript-language-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-API-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-mobile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <div align="center">
